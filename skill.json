@@ -1,0 +1,8 @@
+{
+  "name": "business-startup-cost-estimator",
+  "version": "1.0.0",
+  "description": "Detailed startup capital, OPEX, working-capital and break-even estimator for Claude.",
+  "entrypoint": "SKILL.md",
+  "license": "MIT",
+  "author": "Kivanc Baylan"
+}
