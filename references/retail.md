@@ -1,0 +1,2 @@
+# Retail Module
+Consider lease/deposit, fit-out, shelving/racking, displays, fitting rooms, mirrors, lighting, signage, mannequins, stockroom, POS, barcode scanners, label printers, security tags, CCTV, alarm, packaging, initial inventory depth, shrinkage, returns, ecommerce integration, photography, launch marketing, replenishment lead times, seasonal stock, MOQs, supplier deposits, freight, customs/import taxes, damaged stock and markdowns.
