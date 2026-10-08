@@ -1,0 +1,10 @@
+category,item,quantity,unit,minimum,realistic,premium,currency,source_or_assumption,confidence,refundable,recoverable_tax,notes
+Formation,Company registration,1,item,,,,,,,,,,
+Premises,Lease deposit,1,item,,,,,,,,,,
+Fit-out,Fit-out subtotal,1,item,,,,,,,,,,
+Equipment,Equipment subtotal,1,item,,,,,,,,,,
+Furniture,Furniture subtotal,1,item,,,,,,,,,,
+Technology,Technology subtotal,1,item,,,,,,,,,,
+Inventory,Opening inventory,1,item,,,,,,,,,,
+Branding,Branding and launch,1,item,,,,,,,,,,
+People,Pre-opening hiring and training,1,item,,,,,,,,,,
