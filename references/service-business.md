@@ -1,0 +1,2 @@
+# Office / Professional Service Business Module
+Consider company setup, professional licenses, insurance, office/coworking deposit, furniture, laptops, monitors, phones, networking, software seats, accounting/payroll, CRM, project management, website, branding, sales collateral, lead generation, recruitment, training, pre-revenue payroll, travel, legal templates/contracts and 3–6 months payroll runway. For low-capex service businesses, working capital and customer acquisition may dominate funding needs.
