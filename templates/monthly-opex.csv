@@ -1,0 +1,10 @@
+cost_category,item,monthly_low,monthly_realistic,monthly_high,currency,fixed_or_variable,notes
+Premises,Rent,,,,,fixed,
+People,Payroll,,,,,fixed,
+Utilities,Electricity/water/internet,,,,,mixed,
+Inventory,COGS/replenishment,,,,,variable,
+Marketing,Marketing,,,,,mixed,
+Software,Subscriptions,,,,,fixed,
+Insurance,Insurance,,,,,fixed,
+Professional,Accounting/legal,,,,,fixed,
+Maintenance,Repairs/maintenance,,,,,mixed,
