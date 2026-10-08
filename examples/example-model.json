@@ -1,0 +1,20 @@
+{
+  "startup_items": [
+    {"item":"lease deposit","minimum":6000,"realistic":9000,"premium":12000},
+    {"item":"fit-out","minimum":25000,"realistic":45000,"premium":80000},
+    {"item":"coffee equipment","minimum":14000,"realistic":25000,"premium":45000},
+    {"item":"furniture/technology/stock/launch","minimum":12000,"realistic":22000,"premium":38000}
+  ],
+  "monthly_fixed_costs":[
+    {"item":"rent/payroll/utilities/software","minimum":9000,"realistic":12000,"premium":16000}
+  ],
+  "monthly_variable_costs":[
+    {"item":"replenishment/marketing","minimum":2500,"realistic":4000,"premium":6500}
+  ],
+  "runway_months":{"minimum":3,"realistic":6,"premium":6},
+  "contingency_rate":{"minimum":0.1,"realistic":0.15,"premium":0.2},
+  "monthly_revenue":{"minimum":22000,"realistic":32000,"premium":45000},
+  "monthly_variable_costs_at_revenue":{"minimum":7700,"realistic":11200,"premium":15750},
+  "average_ticket":{"minimum":8,"realistic":10,"premium":12},
+  "trading_days_per_month":30
+}
