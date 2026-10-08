@@ -1,0 +1,2 @@
+# Ecommerce Module
+Consider company setup, domain, storefront/platform subscription, theme/development, apps, payment gateway, samples, photography/video, branding, packaging, initial inventory or supplier deposits, 3PL onboarding, storage, shipping materials, returns reserve, support, email/SMS, analytics, accounting, fraud/chargeback reserve, ad creative, launch ad spend, influencer/affiliate costs, duties/taxes and inventory working capital. Model CAC, gross margin after payment fees, shipping subsidy, returns/refunds, ad spend and reorder lead time.
